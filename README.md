@@ -1,6 +1,6 @@
 # <h1 align="center">Hi 👋, I'm Marouane</h1>
 
-<img src="[Header Image](https://github.com/TheOnlyRou/TheOnlyRou/blob/main/images/Header.jpg?raw=true)" align="center" alt=Rou's Header Image">
+<img src="https://github.com/TheOnlyRou/TheOnlyRou/blob/main/images/Header.jpg?raw=true" align="center" alt=Rou's Header Image">
 
 -------------------
 
