@@ -4,12 +4,17 @@
 
 -------------------
 
-&emsp;
+<h4 align="left">Hi 👋, I'm Marouane,
+  
+  - I'm a Computer & Communications Engineer based in Alexandria, Egypt. 
+  
+  - I love using technology to solve any & all problems I face. I am an avid learner and I always want to improve. 
 
-<h4 align="left">Hi 👋, I'm Marouane, a Computer & Communications Engineer based in Alexandria, Egypt. I love using Software and embedded systems to solve problems.
-I specialize in building Internet of Things Systems, which has led me to be interested in, and eventually learn,a multitude of technologies.
-I love technology and I thrive to be a better and better Engineer every day.
+  - I love fixing broken systems, and improving upon inefficient ones. 
 
+  - I am mainly interested in Internet of Things (IoT) and the subsequent technologies that benefit that field, but I'm always open to explore new stuff.
+  
+  - In my free time, I enjoy playing video games, or freelance graphic designing.
 
 ---
 
@@ -24,69 +29,61 @@ I love technology and I thrive to be a better and better Engineer every day.
   - Non-relational Databases
   - Computer Vision
   - Bioinformatics
-- 💬 I'm open to collab requests and questions at most times, so feel free to message me if you want
+- 💬 I'm open to collab requests and questions at most times, so feel free to message me at any time :)
 
 &emsp;
 
-## 🛠️ My Skills
+## 🛠️ My Tech Stack (Always Evolving)
 
 -------------------
 
 ### Programming languages:
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=data:https://cdn-icons-png.flaticon.com/512/226/226777.png/png;base64&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Dart]  
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)  
 
 ### Frontend development:
-
-&emsp;
-
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 ### Misc tools:
-
-&emsp;
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Git](https://img.shields.io/badge/-Git-F1502F?&logo=Git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Docker](https://img.shields.io/badge/-Docker-0db7ed?&logo=Docker&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-![Miro]
-![Clickup]
-![Trello]
+![Postman](https://img.shields.io/badge/-Postman-EF5B25?&logo=Postman&logoColor=ffffff)
+![Illustrator](https://img.shields.io/badge/-Illustrator-f8a829?style=flat&logo=adobe-illustrator&logoColor=000000)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=001E36)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-49021F?style=flat&logo=adobe-indesign)
+![Miro](https://img.shields.io/badge/-Miro-f8a829?&logo=miro&logoColor=000000)
+![Clickup](https://img.shields.io/badge/-Clickup-000?&logo=clickup)
+![Trello](https://img.shields.io/badge/-Trello-007AC0?&logo=trello)
 
 ### Services & Frameworks:
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flutter]
-&emsp;
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=ffffff)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-027DFD?style=flat&logo=flutter&logoColor=092E20)
+![Arduino](https://img.shields.io/badge/-Arduino-3186a0?style=flat&logo=arduino&logoColor=092E20)  
 
 ### IDEs:
-
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Matlab]
-![Codeblocks]
-![Visual Studio]
-![IntelliJ IDEA]
-![IntelliJ PyCharm]
-&emsp;
+![Matlab](https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=https://imageup.me/images/6257ddc7-5650-49cc-a047-606ef7204971.png/png;base=64)
+![Codeblocks](https://img.shields.io/badge/-Codeblocks-05122A?style=flat&logo=rstudio)
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&logo=visualstudio)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-05122A?style=flat&logo=intellijidea)
+![IntelliJ PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)
+![Apache Netbeans](https://img.shields.io/badge/-Netbeans-05122A?style=flat&logo=apachenetbeanside)
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipseide)  
   
 ### Databases:
-
-&emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
-![SQL]
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=microsoftsqlserver)
 
 ## 📈 My GitHub Stats and Activity
 
