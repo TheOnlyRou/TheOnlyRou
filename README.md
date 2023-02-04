@@ -71,7 +71,7 @@
 ### IDEs:
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Matlab](https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=https://imageup.me/images/6257ddc7-5650-49cc-a047-606ef7204971.png/png;base=64)
-![Codeblocks](https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=https://imageup.me/images/6257ddc7-5650-49cc-a047-606ef7204971.png/png;base=64)
+![Codeblocks](https://img.shields.io/badge/-CodeBlocks-05122A?style=flat&logo=https://imageup.me/images/6257ddc7-5650-49cc-a047-606ef7204971.png/png;base=64)
 ![Visual Studio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&logo=visualstudio)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-05122A?style=flat&logo=intellijidea)
 ![IntelliJ PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)
