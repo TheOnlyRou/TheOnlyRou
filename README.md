@@ -70,12 +70,12 @@
 
 
 ### Services & Frameworks:
-[![My Services & Frameworks](https://skillicons.dev/icons?i=django,flutter,arduino,dotnet,nodejs,qt,unity,)](https://skillicons.dev)
+[![My Services & Frameworks](https://skillicons.dev/icons?i=django,flutter,arduino,dotnet,nodejs,qt,unity,laravel)](https://skillicons.dev)
 <!-- add chartJS-->
 
 
 ### IDEs:
-[![My IDEs](https://skillicons.dev/icons?i=matlab,visualstudio,vscode,idea,eclipse)](https://skillicons.dev)  
+[![My IDEs](https://skillicons.dev/icons?i=matlab,visualstudio,vscode,idea,eclipse,androidstudio)](https://skillicons.dev)  
 <!-- add rstudio, xcode, netbeans, codeblocks, pycahrm-->    
   
 ### Databases & DB Management Tools:
