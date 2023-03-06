@@ -1,8 +1,12 @@
 # <h1 align="center"> <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"> &nbsp; Hi 👋, I'm Marouane&nbsp;<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></h1>   
   <p align="center">
-
   
 ![Header Image](https://github.com/TheOnlyRou/TheOnlyRou/blob/main/images/Header.jpg?raw=true)
+  
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  width="1080px">
+  
+  
+
 
 -------------------
 
@@ -12,9 +16,9 @@
   
   - I love using technology to solve any & all problems I face. I am an avid learner and I always want to improve. 
 
-  - I love fixing broken systems, and improving upon inefficient ones. 
+  - I love fixing broken systems, and improving inefficient ones. 
 
-  - I am mainly interested in Internet of Things (IoT) and the subsequent technologies that benefit that field, but I'm always open to explore new stuff.
+  - I am mainly interested in Internet of Things (IoT) and all relevant technologies that serve that field, but I'm always open to explore new areas of knowledge.
   
   - In my free time, I enjoy playing video games, or freelance graphic designing.
 
