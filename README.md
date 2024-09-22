@@ -35,7 +35,7 @@
   - Non-relational Databases
   - Computer Vision
   - Bioinformatics
-- 💬 I'm open to collab requests and questions at most times, so feel free to send me an e-mail at mrekaby@sahlasmartsolutions.com :)
+- 💬 I'm open to collab requests and questions at most times, so feel free to send me an e-mail at mrekaby@sahlasolutions.com :)
 
 &emsp;
 
